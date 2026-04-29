@@ -7,9 +7,9 @@
   My focus is on turning ideas into real-world solutions that are fast, scalable, and business-driven.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="coding" width="380" src="https://images.stockcake.com/public/9/1/8/9188a8e9-4bdf-4210-b046-fb70b2b029fd_large/coding-at-night-stockcake.jpg">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdul-samad-91&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -43,8 +43,8 @@ My goal is to build clean, scalable, and production-ready applications that solv
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulbasit-10&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasit-10&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-91&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-samad-91&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
