@@ -3,7 +3,7 @@
 
 <p align="center">
   I am a Full-Stack Web Developer specializing in building scalable, high-performance web applications and AI-powered SaaS platforms. 
-  I work with modern JavaScript frameworks like MERN, Next.js, and Nuxt.js to create clean, efficient, and user-focused digital products. 
+  I work with modern JavaScript and TypeScript frameworks like MERN, PERN , Next, and Nest to create clean, efficient, and user-focused digital products. 
   My focus is on turning ideas into real-world solutions that are fast, scalable, and business-driven.
 </p>
 
