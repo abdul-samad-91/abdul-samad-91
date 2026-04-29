@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulbasit-10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdul-samad-91&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 - Full-Stack Web Developer (MERN / PERN / MEAN Stack)
 - Next.js & Nuxt.js Applications
 - SaaS Platforms & Admin Dashboards
