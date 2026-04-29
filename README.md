@@ -40,7 +40,7 @@ My goal is to build clean, scalable, and production-ready applications that solv
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-91&show_icons=true&theme=tokyonight" height="180"/>
@@ -49,30 +49,29 @@ My goal is to build clean, scalable, and production-ready applications that solv
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasit-10&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-91&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasit-10&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-samad-91&theme=tokyo-night" />
 </p>
 
 ---
 
-## 📬 Contact Me
-- 📧 Email: **as03489822@gmail.com**
-- 🔗 LinkedIn: [Abdul Samad](https://www.linkedin.com/in/abdul-samad-912882284/)
-- 📸 Instagram: [@abdulsamad_2281](https://www.instagram.com/abdulsamad_2281/)
+## Contact Me
+- Email: **as03489822@gmail.com**
+- LinkedIn: [Abdul Samad](https://www.linkedin.com/in/abdul-samad-912882284/)
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 When I'm not coding, I enjoy traveling, reading books, and playing games.
 
 ---
@@ -84,5 +83,5 @@ When I'm not coding, I enjoy traveling, reading books, and playing games.
 
 <!-- GitHub Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulbasit-10&theme=tokyonight&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdul-samad-91&theme=tokyonight&margin-w=10&no-frame=true" />
 </p>
