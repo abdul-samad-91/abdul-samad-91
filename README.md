@@ -15,22 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdul-samad-91&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-##  About Me
-- Full-Stack Web Developer (MERN / PERN / MEAN Stack)
-- Next.js & Nuxt.js Applications
-- SaaS Platforms & Admin Dashboards
-- REST APIs & Backend Development (Node.js, Express)
-- UI/UX Focused Frontend Development (React, Tailwind CSS)
-- Authentication, Payments (Stripe), and Scalable Architecture
-
-I have worked on **online admission systems, news/blog platforms, and SaaS earning platforms**.  
-My goal is to build clean, scalable, and production-ready applications that solve real-world problems.
-
----
-
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
 
